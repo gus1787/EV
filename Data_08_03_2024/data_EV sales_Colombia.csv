@@ -1,0 +1,19 @@
+region,category,parameter,mode,powertrain,year,unit,value
+Colombia,Historical,EV sales,Cars,PHEV,2015,Vehicles,3.0
+Colombia,Historical,EV sales,Cars,PHEV,2016,Vehicles,25.0
+Colombia,Historical,EV sales,Cars,PHEV,2017,Vehicles,56.0
+Colombia,Historical,EV sales,Cars,PHEV,2018,Vehicles,320.0
+Colombia,Historical,EV sales,Cars,PHEV,2019,Vehicles,450.0
+Colombia,Historical,EV sales,Cars,PHEV,2020,Vehicles,470.0
+Colombia,Historical,EV sales,Cars,PHEV,2021,Vehicles,1700.0
+Colombia,Historical,EV sales,Cars,PHEV,2022,Vehicles,2400.0
+Colombia,Historical,EV sales,Cars,PHEV,2023,Vehicles,2500.0
+Colombia,Historical,EV sales,Cars,BEV,2015,Vehicles,39.0
+Colombia,Historical,EV sales,Cars,BEV,2016,Vehicles,28.0
+Colombia,Historical,EV sales,Cars,BEV,2017,Vehicles,92.0
+Colombia,Historical,EV sales,Cars,BEV,2018,Vehicles,250.0
+Colombia,Historical,EV sales,Cars,BEV,2019,Vehicles,870.0
+Colombia,Historical,EV sales,Cars,BEV,2020,Vehicles,480.0
+Colombia,Historical,EV sales,Cars,BEV,2021,Vehicles,840.0
+Colombia,Historical,EV sales,Cars,BEV,2022,Vehicles,1900.0
+Colombia,Historical,EV sales,Cars,BEV,2023,Vehicles,3600.0

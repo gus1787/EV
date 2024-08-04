@@ -1,0 +1,17 @@
+region,category,parameter,mode,powertrain,year,unit,value
+Estonia,Historical,EV sales,Cars,PHEV,2017,Vehicles,20.0
+Estonia,Historical,EV sales,Cars,PHEV,2018,Vehicles,33.0
+Estonia,Historical,EV sales,Cars,PHEV,2019,Vehicles,17.0
+Estonia,Historical,EV sales,Cars,PHEV,2020,Vehicles,75.0
+Estonia,Historical,EV sales,Cars,PHEV,2021,Vehicles,240.0
+Estonia,Historical,EV sales,Cars,PHEV,2022,Vehicles,430.0
+Estonia,Historical,EV sales,Cars,PHEV,2023,Vehicles,560.0
+Estonia,Historical,EV sales,Cars,BEV,2015,Vehicles,34.0
+Estonia,Historical,EV sales,Cars,BEV,2016,Vehicles,35.0
+Estonia,Historical,EV sales,Cars,BEV,2017,Vehicles,26.0
+Estonia,Historical,EV sales,Cars,BEV,2018,Vehicles,85.0
+Estonia,Historical,EV sales,Cars,BEV,2019,Vehicles,80.0
+Estonia,Historical,EV sales,Cars,BEV,2020,Vehicles,340.0
+Estonia,Historical,EV sales,Cars,BEV,2021,Vehicles,480.0
+Estonia,Historical,EV sales,Cars,BEV,2022,Vehicles,730.0
+Estonia,Historical,EV sales,Cars,BEV,2023,Vehicles,1400.0

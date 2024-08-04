@@ -1,0 +1,13 @@
+region,category,parameter,mode,powertrain,year,unit,value
+Australia,Historical,EV charging points,EV,Publicly available slow,2017,charging points,440.0
+Australia,Historical,EV charging points,EV,Publicly available slow,2018,charging points,670.0
+Australia,Historical,EV charging points,EV,Publicly available slow,2019,charging points,1700.0
+Australia,Historical,EV charging points,EV,Publicly available slow,2020,charging points,2300.0
+Australia,Historical,EV charging points,EV,Publicly available slow,2021,charging points,2000.0
+Australia,Historical,EV charging points,EV,Publicly available slow,2022,charging points,2100.0
+Australia,Historical,EV charging points,EV,Publicly available slow,2023,charging points,2100.0
+Australia,Historical,EV charging points,EV,Publicly available fast,2017,charging points,40.0
+Australia,Historical,EV charging points,EV,Publicly available fast,2018,charging points,61.0
+Australia,Historical,EV charging points,EV,Publicly available fast,2021,charging points,320.0
+Australia,Historical,EV charging points,EV,Publicly available fast,2022,charging points,470.0
+Australia,Historical,EV charging points,EV,Publicly available fast,2023,charging points,660.0

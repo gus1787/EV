@@ -1,0 +1,19 @@
+region,category,parameter,mode,powertrain,year,unit,value
+Latvia,Historical,EV sales,Cars,PHEV,2015,Vehicles,9.0
+Latvia,Historical,EV sales,Cars,PHEV,2016,Vehicles,18.0
+Latvia,Historical,EV sales,Cars,PHEV,2017,Vehicles,18.0
+Latvia,Historical,EV sales,Cars,PHEV,2018,Vehicles,17.0
+Latvia,Historical,EV sales,Cars,PHEV,2019,Vehicles,12.0
+Latvia,Historical,EV sales,Cars,PHEV,2020,Vehicles,73.0
+Latvia,Historical,EV sales,Cars,PHEV,2021,Vehicles,140.0
+Latvia,Historical,EV sales,Cars,PHEV,2022,Vehicles,300.0
+Latvia,Historical,EV sales,Cars,PHEV,2023,Vehicles,360.0
+Latvia,Historical,EV sales,Cars,BEV,2015,Vehicles,17.0
+Latvia,Historical,EV sales,Cars,BEV,2016,Vehicles,22.0
+Latvia,Historical,EV sales,Cars,BEV,2017,Vehicles,22.0
+Latvia,Historical,EV sales,Cars,BEV,2018,Vehicles,73.0
+Latvia,Historical,EV sales,Cars,BEV,2019,Vehicles,86.0
+Latvia,Historical,EV sales,Cars,BEV,2020,Vehicles,310.0
+Latvia,Historical,EV sales,Cars,BEV,2021,Vehicles,410.0
+Latvia,Historical,EV sales,Cars,BEV,2022,Vehicles,1100.0
+Latvia,Historical,EV sales,Cars,BEV,2023,Vehicles,1700.0

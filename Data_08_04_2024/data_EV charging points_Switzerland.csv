@@ -1,0 +1,25 @@
+region,category,parameter,mode,powertrain,year,unit,value
+Switzerland,Historical,EV charging points,EV,Publicly available slow,2012,charging points,400.0
+Switzerland,Historical,EV charging points,EV,Publicly available slow,2013,charging points,600.0
+Switzerland,Historical,EV charging points,EV,Publicly available slow,2014,charging points,1300.0
+Switzerland,Historical,EV charging points,EV,Publicly available slow,2015,charging points,3400.0
+Switzerland,Historical,EV charging points,EV,Publicly available slow,2016,charging points,3500.0
+Switzerland,Historical,EV charging points,EV,Publicly available slow,2017,charging points,3500.0
+Switzerland,Historical,EV charging points,EV,Publicly available slow,2018,charging points,4400.0
+Switzerland,Historical,EV charging points,EV,Publicly available slow,2019,charging points,5400.0
+Switzerland,Historical,EV charging points,EV,Publicly available slow,2020,charging points,6700.0
+Switzerland,Historical,EV charging points,EV,Publicly available slow,2021,charging points,8200.0
+Switzerland,Historical,EV charging points,EV,Publicly available slow,2022,charging points,10000.0
+Switzerland,Historical,EV charging points,EV,Publicly available slow,2023,charging points,13000.0
+Switzerland,Historical,EV charging points,EV,Publicly available fast,2012,charging points,4.0
+Switzerland,Historical,EV charging points,EV,Publicly available fast,2013,charging points,27.0
+Switzerland,Historical,EV charging points,EV,Publicly available fast,2014,charging points,99.0
+Switzerland,Historical,EV charging points,EV,Publicly available fast,2015,charging points,260.0
+Switzerland,Historical,EV charging points,EV,Publicly available fast,2016,charging points,350.0
+Switzerland,Historical,EV charging points,EV,Publicly available fast,2017,charging points,580.0
+Switzerland,Historical,EV charging points,EV,Publicly available fast,2018,charging points,740.0
+Switzerland,Historical,EV charging points,EV,Publicly available fast,2019,charging points,920.0
+Switzerland,Historical,EV charging points,EV,Publicly available fast,2020,charging points,1000.0
+Switzerland,Historical,EV charging points,EV,Publicly available fast,2021,charging points,1900.0
+Switzerland,Historical,EV charging points,EV,Publicly available fast,2022,charging points,2200.0
+Switzerland,Historical,EV charging points,EV,Publicly available fast,2023,charging points,2800.0

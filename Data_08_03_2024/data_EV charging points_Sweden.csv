@@ -1,0 +1,19 @@
+region,category,parameter,mode,powertrain,year,unit,value
+Sweden,Historical,EV charging points,EV,Publicly available slow,2013,charging points,5.0
+Sweden,Historical,EV charging points,EV,Publicly available slow,2014,charging points,1000.0
+Sweden,Historical,EV charging points,EV,Publicly available slow,2015,charging points,1100.0
+Sweden,Historical,EV charging points,EV,Publicly available slow,2016,charging points,1700.0
+Sweden,Historical,EV charging points,EV,Publicly available slow,2017,charging points,3400.0
+Sweden,Historical,EV charging points,EV,Publicly available slow,2018,charging points,5500.0
+Sweden,Historical,EV charging points,EV,Publicly available slow,2019,charging points,7800.0
+Sweden,Historical,EV charging points,EV,Publicly available slow,2020,charging points,9800.0
+Sweden,Historical,EV charging points,EV,Publicly available slow,2021,charging points,12000.0
+Sweden,Historical,EV charging points,EV,Publicly available slow,2022,charging points,15000.0
+Sweden,Historical,EV charging points,EV,Publicly available slow,2023,charging points,30000.0
+Sweden,Historical,EV charging points,EV,Publicly available fast,2017,charging points,790.0
+Sweden,Historical,EV charging points,EV,Publicly available fast,2018,charging points,1000.0
+Sweden,Historical,EV charging points,EV,Publicly available fast,2019,charging points,1200.0
+Sweden,Historical,EV charging points,EV,Publicly available fast,2020,charging points,1400.0
+Sweden,Historical,EV charging points,EV,Publicly available fast,2021,charging points,1700.0
+Sweden,Historical,EV charging points,EV,Publicly available fast,2022,charging points,2600.0
+Sweden,Historical,EV charging points,EV,Publicly available fast,2023,charging points,4500.0

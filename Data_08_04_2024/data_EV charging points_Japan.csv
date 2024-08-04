@@ -1,0 +1,25 @@
+region,category,parameter,mode,powertrain,year,unit,value
+Japan,Historical,EV charging points,EV,Publicly available slow,2014,charging points,8600.0
+Japan,Historical,EV charging points,EV,Publicly available slow,2015,charging points,16000.0
+Japan,Historical,EV charging points,EV,Publicly available slow,2016,charging points,17000.0
+Japan,Historical,EV charging points,EV,Publicly available slow,2017,charging points,22000.0
+Japan,Historical,EV charging points,EV,Publicly available slow,2018,charging points,22000.0
+Japan,Historical,EV charging points,EV,Publicly available slow,2019,charging points,23000.0
+Japan,Historical,EV charging points,EV,Publicly available slow,2020,charging points,22000.0
+Japan,Historical,EV charging points,EV,Publicly available slow,2021,charging points,21000.0
+Japan,Historical,EV charging points,EV,Publicly available slow,2022,charging points,21000.0
+Japan,Historical,EV charging points,EV,Publicly available slow,2023,charging points,22000.0
+Japan,Historical,EV charging points,EV,Publicly available fast,2010,charging points,310.0
+Japan,Historical,EV charging points,EV,Publicly available fast,2011,charging points,800.0
+Japan,Historical,EV charging points,EV,Publicly available fast,2012,charging points,1400.0
+Japan,Historical,EV charging points,EV,Publicly available fast,2013,charging points,1800.0
+Japan,Historical,EV charging points,EV,Publicly available fast,2014,charging points,2900.0
+Japan,Historical,EV charging points,EV,Publicly available fast,2015,charging points,6000.0
+Japan,Historical,EV charging points,EV,Publicly available fast,2016,charging points,7100.0
+Japan,Historical,EV charging points,EV,Publicly available fast,2017,charging points,7300.0
+Japan,Historical,EV charging points,EV,Publicly available fast,2018,charging points,7700.0
+Japan,Historical,EV charging points,EV,Publicly available fast,2019,charging points,7900.0
+Japan,Historical,EV charging points,EV,Publicly available fast,2020,charging points,7900.0
+Japan,Historical,EV charging points,EV,Publicly available fast,2021,charging points,8000.0
+Japan,Historical,EV charging points,EV,Publicly available fast,2022,charging points,8400.0
+Japan,Historical,EV charging points,EV,Publicly available fast,2023,charging points,9600.0

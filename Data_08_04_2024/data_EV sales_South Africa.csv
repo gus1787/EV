@@ -1,0 +1,24 @@
+region,category,parameter,mode,powertrain,year,unit,value
+South Africa,Historical,EV sales,Cars,PHEV,2014,Vehicles,1.0
+South Africa,Historical,EV sales,Cars,PHEV,2015,Vehicles,120.0
+South Africa,Historical,EV sales,Cars,PHEV,2016,Vehicles,280.0
+South Africa,Historical,EV sales,Cars,PHEV,2017,Vehicles,130.0
+South Africa,Historical,EV sales,Cars,PHEV,2018,Vehicles,82.0
+South Africa,Historical,EV sales,Cars,PHEV,2019,Vehicles,72.0
+South Africa,Historical,EV sales,Cars,PHEV,2020,Vehicles,150.0
+South Africa,Historical,EV sales,Cars,PHEV,2021,Vehicles,51.0
+South Africa,Historical,EV sales,Cars,PHEV,2022,Vehicles,120.0
+South Africa,Historical,EV sales,Cars,PHEV,2023,Vehicles,270.0
+South Africa,Historical,EV sales,Cars,FCEV,2021,Vehicles,1.0
+South Africa,Historical,EV sales,Cars,FCEV,2022,Vehicles,2.0
+South Africa,Historical,EV sales,Cars,BEV,2013,Vehicles,34.0
+South Africa,Historical,EV sales,Cars,BEV,2014,Vehicles,14.0
+South Africa,Historical,EV sales,Cars,BEV,2015,Vehicles,120.0
+South Africa,Historical,EV sales,Cars,BEV,2016,Vehicles,100.0
+South Africa,Historical,EV sales,Cars,BEV,2017,Vehicles,68.0
+South Africa,Historical,EV sales,Cars,BEV,2018,Vehicles,66.0
+South Africa,Historical,EV sales,Cars,BEV,2019,Vehicles,160.0
+South Africa,Historical,EV sales,Cars,BEV,2020,Vehicles,92.0
+South Africa,Historical,EV sales,Cars,BEV,2021,Vehicles,220.0
+South Africa,Historical,EV sales,Cars,BEV,2022,Vehicles,500.0
+South Africa,Historical,EV sales,Cars,BEV,2023,Vehicles,810.0

@@ -1,0 +1,25 @@
+region,category,parameter,mode,powertrain,year,unit,value
+Denmark,Historical,EV charging points,EV,Publicly available slow,2012,charging points,900.0
+Denmark,Historical,EV charging points,EV,Publicly available slow,2013,charging points,990.0
+Denmark,Historical,EV charging points,EV,Publicly available slow,2014,charging points,1600.0
+Denmark,Historical,EV charging points,EV,Publicly available slow,2015,charging points,2100.0
+Denmark,Historical,EV charging points,EV,Publicly available slow,2016,charging points,4200.0
+Denmark,Historical,EV charging points,EV,Publicly available slow,2017,charging points,4200.0
+Denmark,Historical,EV charging points,EV,Publicly available slow,2018,charging points,4300.0
+Denmark,Historical,EV charging points,EV,Publicly available slow,2019,charging points,4500.0
+Denmark,Historical,EV charging points,EV,Publicly available slow,2020,charging points,5400.0
+Denmark,Historical,EV charging points,EV,Publicly available slow,2021,charging points,7000.0
+Denmark,Historical,EV charging points,EV,Publicly available slow,2022,charging points,8300.0
+Denmark,Historical,EV charging points,EV,Publicly available slow,2023,charging points,14000.0
+Denmark,Historical,EV charging points,EV,Publicly available fast,2012,charging points,3.0
+Denmark,Historical,EV charging points,EV,Publicly available fast,2013,charging points,56.0
+Denmark,Historical,EV charging points,EV,Publicly available fast,2014,charging points,120.0
+Denmark,Historical,EV charging points,EV,Publicly available fast,2015,charging points,270.0
+Denmark,Historical,EV charging points,EV,Publicly available fast,2016,charging points,310.0
+Denmark,Historical,EV charging points,EV,Publicly available fast,2017,charging points,370.0
+Denmark,Historical,EV charging points,EV,Publicly available fast,2018,charging points,390.0
+Denmark,Historical,EV charging points,EV,Publicly available fast,2019,charging points,450.0
+Denmark,Historical,EV charging points,EV,Publicly available fast,2020,charging points,560.0
+Denmark,Historical,EV charging points,EV,Publicly available fast,2021,charging points,240.0
+Denmark,Historical,EV charging points,EV,Publicly available fast,2022,charging points,1200.0
+Denmark,Historical,EV charging points,EV,Publicly available fast,2023,charging points,3000.0

@@ -1,0 +1,23 @@
+region,category,parameter,mode,powertrain,year,unit,value
+Finland,Historical,EV charging points,EV,Publicly available slow,2013,charging points,250.0
+Finland,Historical,EV charging points,EV,Publicly available slow,2014,charging points,360.0
+Finland,Historical,EV charging points,EV,Publicly available slow,2015,charging points,710.0
+Finland,Historical,EV charging points,EV,Publicly available slow,2016,charging points,710.0
+Finland,Historical,EV charging points,EV,Publicly available slow,2017,charging points,710.0
+Finland,Historical,EV charging points,EV,Publicly available slow,2018,charging points,710.0
+Finland,Historical,EV charging points,EV,Publicly available slow,2019,charging points,1800.0
+Finland,Historical,EV charging points,EV,Publicly available slow,2020,charging points,3900.0
+Finland,Historical,EV charging points,EV,Publicly available slow,2021,charging points,5800.0
+Finland,Historical,EV charging points,EV,Publicly available slow,2022,charging points,7700.0
+Finland,Historical,EV charging points,EV,Publicly available slow,2023,charging points,9300.0
+Finland,Historical,EV charging points,EV,Publicly available fast,2013,charging points,17.0
+Finland,Historical,EV charging points,EV,Publicly available fast,2014,charging points,26.0
+Finland,Historical,EV charging points,EV,Publicly available fast,2015,charging points,130.0
+Finland,Historical,EV charging points,EV,Publicly available fast,2016,charging points,140.0
+Finland,Historical,EV charging points,EV,Publicly available fast,2017,charging points,140.0
+Finland,Historical,EV charging points,EV,Publicly available fast,2018,charging points,220.0
+Finland,Historical,EV charging points,EV,Publicly available fast,2019,charging points,340.0
+Finland,Historical,EV charging points,EV,Publicly available fast,2020,charging points,410.0
+Finland,Historical,EV charging points,EV,Publicly available fast,2021,charging points,770.0
+Finland,Historical,EV charging points,EV,Publicly available fast,2022,charging points,1300.0
+Finland,Historical,EV charging points,EV,Publicly available fast,2023,charging points,2800.0

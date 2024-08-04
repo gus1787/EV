@@ -1,0 +1,20 @@
+region,category,parameter,mode,powertrain,year,unit,value
+Turkiye,Historical,EV stock,Cars,PHEV,2016,Vehicles,210.0
+Turkiye,Historical,EV stock,Cars,PHEV,2017,Vehicles,240.0
+Turkiye,Historical,EV stock,Cars,PHEV,2018,Vehicles,280.0
+Turkiye,Historical,EV stock,Cars,PHEV,2019,Vehicles,540.0
+Turkiye,Historical,EV stock,Cars,PHEV,2020,Vehicles,1000.0
+Turkiye,Historical,EV stock,Cars,PHEV,2021,Vehicles,1800.0
+Turkiye,Historical,EV stock,Cars,PHEV,2022,Vehicles,2300.0
+Turkiye,Historical,EV stock,Cars,PHEV,2023,Vehicles,4900.0
+Turkiye,Historical,EV stock,Cars,BEV,2013,Vehicles,230.0
+Turkiye,Historical,EV stock,Cars,BEV,2014,Vehicles,260.0
+Turkiye,Historical,EV stock,Cars,BEV,2015,Vehicles,370.0
+Turkiye,Historical,EV stock,Cars,BEV,2016,Vehicles,420.0
+Turkiye,Historical,EV stock,Cars,BEV,2017,Vehicles,500.0
+Turkiye,Historical,EV stock,Cars,BEV,2018,Vehicles,650.0
+Turkiye,Historical,EV stock,Cars,BEV,2019,Vehicles,1300.0
+Turkiye,Historical,EV stock,Cars,BEV,2020,Vehicles,2900.0
+Turkiye,Historical,EV stock,Cars,BEV,2021,Vehicles,6800.0
+Turkiye,Historical,EV stock,Cars,BEV,2022,Vehicles,14000.0
+Turkiye,Historical,EV stock,Cars,BEV,2023,Vehicles,77000.0

@@ -1,0 +1,27 @@
+region,category,parameter,mode,powertrain,year,unit,value
+Israel,Historical,EV sales share,Cars,EV,2011,percent,0.001300000003539
+Israel,Historical,EV sales share,Cars,EV,2012,percent,0.270000010728836
+Israel,Historical,EV sales share,Cars,EV,2013,percent,0.209999993443489
+Israel,Historical,EV sales share,Buses,EV,2013,percent,3.19999999192078e-05
+Israel,Historical,EV sales share,Cars,EV,2014,percent,0.021999999880791
+Israel,Historical,EV sales share,Cars,EV,2015,percent,0.024000000208616
+Israel,Historical,EV sales share,Cars,EV,2016,percent,0.021999999880791
+Israel,Historical,EV sales share,Buses,EV,2016,percent,0.109999999403954
+Israel,Historical,EV sales share,Buses,EV,2017,percent,0.949999988079071
+Israel,Historical,EV sales share,Cars,EV,2017,percent,0.519999980926514
+Israel,Historical,EV sales share,Cars,EV,2018,percent,1.20000004768372
+Israel,Historical,EV sales share,Buses,EV,2018,percent,0.610000014305115
+Israel,Historical,EV sales share,Buses,EV,2019,percent,0.370000004768372
+Israel,Historical,EV sales share,Cars,EV,2019,percent,1.60000002384186
+Israel,Historical,EV sales share,Cars,EV,2020,percent,2.59999990463257
+Israel,Historical,EV sales share,Buses,EV,2020,percent,0.870000004768372
+Israel,Historical,EV sales share,Vans,EV,2020,percent,0.360000014305115
+Israel,Historical,EV sales share,Vans,EV,2021,percent,0.490000009536743
+Israel,Historical,EV sales share,Buses,EV,2021,percent,0.779999971389771
+Israel,Historical,EV sales share,Cars,EV,2021,percent,6.90000009536743
+Israel,Historical,EV sales share,Cars,EV,2022,percent,12.0
+Israel,Historical,EV sales share,Buses,EV,2022,percent,10.0
+Israel,Historical,EV sales share,Vans,EV,2022,percent,0.689999997615814
+Israel,Historical,EV sales share,Vans,EV,2023,percent,0.600000023841858
+Israel,Historical,EV sales share,Buses,EV,2023,percent,11.0
+Israel,Historical,EV sales share,Cars,EV,2023,percent,19.0

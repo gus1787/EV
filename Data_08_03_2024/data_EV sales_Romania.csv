@@ -1,0 +1,11 @@
+region,category,parameter,mode,powertrain,year,unit,value
+Romania,Historical,EV sales,Cars,PHEV,2020,Vehicles,1000.0
+Romania,Historical,EV sales,Cars,BEV,2015,Vehicles,24.0
+Romania,Historical,EV sales,Cars,BEV,2016,Vehicles,74.0
+Romania,Historical,EV sales,Cars,BEV,2017,Vehicles,190.0
+Romania,Historical,EV sales,Cars,BEV,2018,Vehicles,600.0
+Romania,Historical,EV sales,Cars,BEV,2019,Vehicles,1500.0
+Romania,Historical,EV sales,Cars,BEV,2020,Vehicles,2800.0
+Romania,Historical,EV sales,Cars,BEV,2021,Vehicles,6300.0
+Romania,Historical,EV sales,Cars,BEV,2022,Vehicles,12000.0
+Romania,Historical,EV sales,Cars,BEV,2023,Vehicles,15000.0

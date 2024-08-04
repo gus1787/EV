@@ -1,0 +1,26 @@
+region,category,parameter,mode,powertrain,year,unit,value
+Chile,Historical,EV sales,Cars,PHEV,2014,Vehicles,14.0
+Chile,Historical,EV sales,Cars,PHEV,2015,Vehicles,23.0
+Chile,Historical,EV sales,Cars,PHEV,2016,Vehicles,9.0
+Chile,Historical,EV sales,Cars,PHEV,2017,Vehicles,15.0
+Chile,Historical,EV sales,Cars,PHEV,2018,Vehicles,68.0
+Chile,Historical,EV sales,Cars,PHEV,2019,Vehicles,140.0
+Chile,Historical,EV sales,Cars,PHEV,2020,Vehicles,79.0
+Chile,Historical,EV sales,Cars,PHEV,2021,Vehicles,300.0
+Chile,Historical,EV sales,Cars,PHEV,2022,Vehicles,620.0
+Chile,Historical,EV sales,Cars,PHEV,2023,Vehicles,510.0
+Chile,Historical,EV sales,Cars,FCEV,2021,Vehicles,1.0
+Chile,Historical,EV sales,Cars,FCEV,2022,Vehicles,1.0
+Chile,Historical,EV sales,Cars,BEV,2011,Vehicles,6.0
+Chile,Historical,EV sales,Cars,BEV,2012,Vehicles,5.0
+Chile,Historical,EV sales,Cars,BEV,2013,Vehicles,5.0
+Chile,Historical,EV sales,Cars,BEV,2014,Vehicles,3.0
+Chile,Historical,EV sales,Cars,BEV,2015,Vehicles,10.0
+Chile,Historical,EV sales,Cars,BEV,2016,Vehicles,18.0
+Chile,Historical,EV sales,Cars,BEV,2017,Vehicles,120.0
+Chile,Historical,EV sales,Cars,BEV,2018,Vehicles,100.0
+Chile,Historical,EV sales,Cars,BEV,2019,Vehicles,160.0
+Chile,Historical,EV sales,Cars,BEV,2020,Vehicles,110.0
+Chile,Historical,EV sales,Cars,BEV,2021,Vehicles,270.0
+Chile,Historical,EV sales,Cars,BEV,2022,Vehicles,880.0
+Chile,Historical,EV sales,Cars,BEV,2023,Vehicles,410.0

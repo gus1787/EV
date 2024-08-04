@@ -1,0 +1,25 @@
+region,category,parameter,mode,powertrain,year,unit,value
+Italy,Historical,EV charging points,EV,Publicly available slow,2012,charging points,1400.0
+Italy,Historical,EV charging points,EV,Publicly available slow,2013,charging points,1400.0
+Italy,Historical,EV charging points,EV,Publicly available slow,2014,charging points,1400.0
+Italy,Historical,EV charging points,EV,Publicly available slow,2015,charging points,1700.0
+Italy,Historical,EV charging points,EV,Publicly available slow,2016,charging points,2300.0
+Italy,Historical,EV charging points,EV,Publicly available slow,2017,charging points,2400.0
+Italy,Historical,EV charging points,EV,Publicly available slow,2018,charging points,2900.0
+Italy,Historical,EV charging points,EV,Publicly available slow,2019,charging points,8300.0
+Italy,Historical,EV charging points,EV,Publicly available slow,2020,charging points,12000.0
+Italy,Historical,EV charging points,EV,Publicly available slow,2021,charging points,20000.0
+Italy,Historical,EV charging points,EV,Publicly available slow,2022,charging points,31000.0
+Italy,Historical,EV charging points,EV,Publicly available slow,2023,charging points,40000.0
+Italy,Historical,EV charging points,EV,Publicly available fast,2012,charging points,1.0
+Italy,Historical,EV charging points,EV,Publicly available fast,2013,charging points,6.0
+Italy,Historical,EV charging points,EV,Publicly available fast,2014,charging points,10.0
+Italy,Historical,EV charging points,EV,Publicly available fast,2015,charging points,70.0
+Italy,Historical,EV charging points,EV,Publicly available fast,2016,charging points,170.0
+Italy,Historical,EV charging points,EV,Publicly available fast,2017,charging points,390.0
+Italy,Historical,EV charging points,EV,Publicly available fast,2018,charging points,570.0
+Italy,Historical,EV charging points,EV,Publicly available fast,2019,charging points,860.0
+Italy,Historical,EV charging points,EV,Publicly available fast,2020,charging points,1200.0
+Italy,Historical,EV charging points,EV,Publicly available fast,2021,charging points,2200.0
+Italy,Historical,EV charging points,EV,Publicly available fast,2022,charging points,6500.0
+Italy,Historical,EV charging points,EV,Publicly available fast,2023,charging points,8100.0

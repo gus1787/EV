@@ -1,0 +1,14 @@
+region,category,parameter,mode,powertrain,year,unit,value
+New Zealand,Historical,EV charging points,EV,Publicly available slow,2018,charging points,89.0
+New Zealand,Historical,EV charging points,EV,Publicly available slow,2019,charging points,130.0
+New Zealand,Historical,EV charging points,EV,Publicly available slow,2020,charging points,150.0
+New Zealand,Historical,EV charging points,EV,Publicly available slow,2021,charging points,170.0
+New Zealand,Historical,EV charging points,EV,Publicly available slow,2022,charging points,200.0
+New Zealand,Historical,EV charging points,EV,Publicly available slow,2023,charging points,280.0
+New Zealand,Historical,EV charging points,EV,Publicly available fast,2017,charging points,100.0
+New Zealand,Historical,EV charging points,EV,Publicly available fast,2018,charging points,200.0
+New Zealand,Historical,EV charging points,EV,Publicly available fast,2019,charging points,260.0
+New Zealand,Historical,EV charging points,EV,Publicly available fast,2020,charging points,310.0
+New Zealand,Historical,EV charging points,EV,Publicly available fast,2021,charging points,430.0
+New Zealand,Historical,EV charging points,EV,Publicly available fast,2022,charging points,480.0
+New Zealand,Historical,EV charging points,EV,Publicly available fast,2023,charging points,860.0

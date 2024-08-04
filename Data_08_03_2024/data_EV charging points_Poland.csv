@@ -1,0 +1,21 @@
+region,category,parameter,mode,powertrain,year,unit,value
+Poland,Historical,EV charging points,EV,Publicly available slow,2014,charging points,120.0
+Poland,Historical,EV charging points,EV,Publicly available slow,2015,charging points,290.0
+Poland,Historical,EV charging points,EV,Publicly available slow,2016,charging points,290.0
+Poland,Historical,EV charging points,EV,Publicly available slow,2017,charging points,410.0
+Poland,Historical,EV charging points,EV,Publicly available slow,2018,charging points,490.0
+Poland,Historical,EV charging points,EV,Publicly available slow,2019,charging points,530.0
+Poland,Historical,EV charging points,EV,Publicly available slow,2020,charging points,1000.0
+Poland,Historical,EV charging points,EV,Publicly available slow,2021,charging points,2300.0
+Poland,Historical,EV charging points,EV,Publicly available slow,2022,charging points,4000.0
+Poland,Historical,EV charging points,EV,Publicly available slow,2023,charging points,4400.0
+Poland,Historical,EV charging points,EV,Publicly available fast,2014,charging points,4.0
+Poland,Historical,EV charging points,EV,Publicly available fast,2015,charging points,8.0
+Poland,Historical,EV charging points,EV,Publicly available fast,2016,charging points,32.0
+Poland,Historical,EV charging points,EV,Publicly available fast,2017,charging points,110.0
+Poland,Historical,EV charging points,EV,Publicly available fast,2018,charging points,280.0
+Poland,Historical,EV charging points,EV,Publicly available fast,2019,charging points,310.0
+Poland,Historical,EV charging points,EV,Publicly available fast,2020,charging points,680.0
+Poland,Historical,EV charging points,EV,Publicly available fast,2021,charging points,1400.0
+Poland,Historical,EV charging points,EV,Publicly available fast,2022,charging points,1100.0
+Poland,Historical,EV charging points,EV,Publicly available fast,2023,charging points,1500.0

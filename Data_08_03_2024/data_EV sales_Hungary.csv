@@ -1,0 +1,19 @@
+region,category,parameter,mode,powertrain,year,unit,value
+Hungary,Historical,EV sales,Cars,PHEV,2015,Vehicles,15.0
+Hungary,Historical,EV sales,Cars,PHEV,2016,Vehicles,170.0
+Hungary,Historical,EV sales,Cars,PHEV,2017,Vehicles,440.0
+Hungary,Historical,EV sales,Cars,PHEV,2018,Vehicles,770.0
+Hungary,Historical,EV sales,Cars,PHEV,2019,Vehicles,1100.0
+Hungary,Historical,EV sales,Cars,PHEV,2020,Vehicles,3000.0
+Hungary,Historical,EV sales,Cars,PHEV,2021,Vehicles,4200.0
+Hungary,Historical,EV sales,Cars,PHEV,2022,Vehicles,4900.0
+Hungary,Historical,EV sales,Cars,PHEV,2023,Vehicles,5500.0
+Hungary,Historical,EV sales,Cars,BEV,2015,Vehicles,120.0
+Hungary,Historical,EV sales,Cars,BEV,2016,Vehicles,170.0
+Hungary,Historical,EV sales,Cars,BEV,2017,Vehicles,750.0
+Hungary,Historical,EV sales,Cars,BEV,2018,Vehicles,1300.0
+Hungary,Historical,EV sales,Cars,BEV,2019,Vehicles,1800.0
+Hungary,Historical,EV sales,Cars,BEV,2020,Vehicles,3000.0
+Hungary,Historical,EV sales,Cars,BEV,2021,Vehicles,4300.0
+Hungary,Historical,EV sales,Cars,BEV,2022,Vehicles,4700.0
+Hungary,Historical,EV sales,Cars,BEV,2023,Vehicles,5800.0

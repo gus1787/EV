@@ -1,0 +1,18 @@
+region,category,parameter,mode,powertrain,year,unit,value
+Mexico,Historical,EV charging points,EV,Publicly available slow,2015,charging points,83.0
+Mexico,Historical,EV charging points,EV,Publicly available slow,2016,charging points,240.0
+Mexico,Historical,EV charging points,EV,Publicly available slow,2017,charging points,700.0
+Mexico,Historical,EV charging points,EV,Publicly available slow,2018,charging points,1100.0
+Mexico,Historical,EV charging points,EV,Publicly available slow,2019,charging points,1100.0
+Mexico,Historical,EV charging points,EV,Publicly available slow,2020,charging points,1100.0
+Mexico,Historical,EV charging points,EV,Publicly available slow,2021,charging points,1100.0
+Mexico,Historical,EV charging points,EV,Publicly available slow,2022,charging points,2000.0
+Mexico,Historical,EV charging points,EV,Publicly available slow,2023,charging points,2000.0
+Mexico,Historical,EV charging points,EV,Publicly available fast,2016,charging points,6.0
+Mexico,Historical,EV charging points,EV,Publicly available fast,2017,charging points,50.0
+Mexico,Historical,EV charging points,EV,Publicly available fast,2018,charging points,76.0
+Mexico,Historical,EV charging points,EV,Publicly available fast,2019,charging points,76.0
+Mexico,Historical,EV charging points,EV,Publicly available fast,2020,charging points,76.0
+Mexico,Historical,EV charging points,EV,Publicly available fast,2021,charging points,76.0
+Mexico,Historical,EV charging points,EV,Publicly available fast,2022,charging points,76.0
+Mexico,Historical,EV charging points,EV,Publicly available fast,2023,charging points,76.0

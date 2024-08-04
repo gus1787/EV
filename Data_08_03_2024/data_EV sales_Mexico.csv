@@ -1,0 +1,23 @@
+region,category,parameter,mode,powertrain,year,unit,value
+Mexico,Historical,EV sales,Cars,PHEV,2015,Vehicles,7.0
+Mexico,Historical,EV sales,Cars,PHEV,2016,Vehicles,520.0
+Mexico,Historical,EV sales,Cars,PHEV,2017,Vehicles,970.0
+Mexico,Historical,EV sales,Cars,PHEV,2018,Vehicles,1600.0
+Mexico,Historical,EV sales,Cars,PHEV,2019,Vehicles,1400.0
+Mexico,Historical,EV sales,Cars,PHEV,2020,Vehicles,2000.0
+Mexico,Historical,EV sales,Cars,PHEV,2021,Vehicles,3500.0
+Mexico,Historical,EV sales,Cars,PHEV,2022,Vehicles,4000.0
+Mexico,Historical,EV sales,Cars,PHEV,2023,Vehicles,2200.0
+Mexico,Historical,EV sales,Cars,BEV,2011,Vehicles,3.0
+Mexico,Historical,EV sales,Cars,BEV,2012,Vehicles,88.0
+Mexico,Historical,EV sales,Cars,BEV,2013,Vehicles,12.0
+Mexico,Historical,EV sales,Cars,BEV,2014,Vehicles,48.0
+Mexico,Historical,EV sales,Cars,BEV,2015,Vehicles,92.0
+Mexico,Historical,EV sales,Cars,BEV,2016,Vehicles,250.0
+Mexico,Historical,EV sales,Cars,BEV,2017,Vehicles,230.0
+Mexico,Historical,EV sales,Cars,BEV,2018,Vehicles,200.0
+Mexico,Historical,EV sales,Cars,BEV,2019,Vehicles,290.0
+Mexico,Historical,EV sales,Cars,BEV,2020,Vehicles,1800.0
+Mexico,Historical,EV sales,Cars,BEV,2021,Vehicles,3000.0
+Mexico,Historical,EV sales,Cars,BEV,2022,Vehicles,4400.0
+Mexico,Historical,EV sales,Cars,BEV,2023,Vehicles,13000.0

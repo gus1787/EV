@@ -1,0 +1,15 @@
+region,category,parameter,mode,powertrain,year,unit,value
+Thailand,Historical,EV charging points,EV,Publicly available slow,2017,charging points,88.0
+Thailand,Historical,EV charging points,EV,Publicly available slow,2018,charging points,88.0
+Thailand,Historical,EV charging points,EV,Publicly available slow,2019,charging points,750.0
+Thailand,Historical,EV charging points,EV,Publicly available slow,2020,charging points,1200.0
+Thailand,Historical,EV charging points,EV,Publicly available slow,2021,charging points,1500.0
+Thailand,Historical,EV charging points,EV,Publicly available slow,2022,charging points,1500.0
+Thailand,Historical,EV charging points,EV,Publicly available slow,2023,charging points,1500.0
+Thailand,Historical,EV charging points,EV,Publicly available fast,2017,charging points,8.0
+Thailand,Historical,EV charging points,EV,Publicly available fast,2018,charging points,8.0
+Thailand,Historical,EV charging points,EV,Publicly available fast,2019,charging points,69.0
+Thailand,Historical,EV charging points,EV,Publicly available fast,2020,charging points,710.0
+Thailand,Historical,EV charging points,EV,Publicly available fast,2021,charging points,770.0
+Thailand,Historical,EV charging points,EV,Publicly available fast,2022,charging points,770.0
+Thailand,Historical,EV charging points,EV,Publicly available fast,2023,charging points,770.0

@@ -1,0 +1,11 @@
+region,category,parameter,mode,powertrain,year,unit,value
+Croatia,Historical,EV sales,Cars,PHEV,2019,Vehicles,67.0
+Croatia,Historical,EV sales,Cars,PHEV,2020,Vehicles,140.0
+Croatia,Historical,EV sales,Cars,PHEV,2021,Vehicles,400.0
+Croatia,Historical,EV sales,Cars,PHEV,2022,Vehicles,840.0
+Croatia,Historical,EV sales,Cars,PHEV,2023,Vehicles,990.0
+Croatia,Historical,EV sales,Cars,BEV,2019,Vehicles,190.0
+Croatia,Historical,EV sales,Cars,BEV,2020,Vehicles,530.0
+Croatia,Historical,EV sales,Cars,BEV,2021,Vehicles,1400.0
+Croatia,Historical,EV sales,Cars,BEV,2022,Vehicles,1400.0
+Croatia,Historical,EV sales,Cars,BEV,2023,Vehicles,1600.0

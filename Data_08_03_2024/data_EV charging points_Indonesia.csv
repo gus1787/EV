@@ -1,0 +1,9 @@
+region,category,parameter,mode,powertrain,year,unit,value
+Indonesia,Historical,EV charging points,EV,Publicly available slow,2020,charging points,50.0
+Indonesia,Historical,EV charging points,EV,Publicly available slow,2021,charging points,54.0
+Indonesia,Historical,EV charging points,EV,Publicly available slow,2022,charging points,580.0
+Indonesia,Historical,EV charging points,EV,Publicly available slow,2023,charging points,580.0
+Indonesia,Historical,EV charging points,EV,Publicly available fast,2020,charging points,51.0
+Indonesia,Historical,EV charging points,EV,Publicly available fast,2021,charging points,130.0
+Indonesia,Historical,EV charging points,EV,Publicly available fast,2022,charging points,130.0
+Indonesia,Historical,EV charging points,EV,Publicly available fast,2023,charging points,130.0

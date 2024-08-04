@@ -1,0 +1,27 @@
+region,category,parameter,mode,powertrain,year,unit,value
+Netherlands,Historical,EV charging points,EV,Publicly available slow,2010,charging points,400.0
+Netherlands,Historical,EV charging points,EV,Publicly available slow,2011,charging points,400.0
+Netherlands,Historical,EV charging points,EV,Publicly available slow,2012,charging points,2800.0
+Netherlands,Historical,EV charging points,EV,Publicly available slow,2013,charging points,5800.0
+Netherlands,Historical,EV charging points,EV,Publicly available slow,2014,charging points,12000.0
+Netherlands,Historical,EV charging points,EV,Publicly available slow,2015,charging points,18000.0
+Netherlands,Historical,EV charging points,EV,Publicly available slow,2016,charging points,32000.0
+Netherlands,Historical,EV charging points,EV,Publicly available slow,2017,charging points,33000.0
+Netherlands,Historical,EV charging points,EV,Publicly available slow,2018,charging points,36000.0
+Netherlands,Historical,EV charging points,EV,Publicly available slow,2019,charging points,46000.0
+Netherlands,Historical,EV charging points,EV,Publicly available slow,2020,charging points,63000.0
+Netherlands,Historical,EV charging points,EV,Publicly available slow,2021,charging points,81000.0
+Netherlands,Historical,EV charging points,EV,Publicly available slow,2022,charging points,120000.0
+Netherlands,Historical,EV charging points,EV,Publicly available slow,2023,charging points,140000.0
+Netherlands,Historical,EV charging points,EV,Publicly available fast,2012,charging points,21.0
+Netherlands,Historical,EV charging points,EV,Publicly available fast,2013,charging points,21.0
+Netherlands,Historical,EV charging points,EV,Publicly available fast,2014,charging points,120.0
+Netherlands,Historical,EV charging points,EV,Publicly available fast,2015,charging points,220.0
+Netherlands,Historical,EV charging points,EV,Publicly available fast,2016,charging points,400.0
+Netherlands,Historical,EV charging points,EV,Publicly available fast,2017,charging points,410.0
+Netherlands,Historical,EV charging points,EV,Publicly available fast,2018,charging points,820.0
+Netherlands,Historical,EV charging points,EV,Publicly available fast,2019,charging points,1300.0
+Netherlands,Historical,EV charging points,EV,Publicly available fast,2020,charging points,2100.0
+Netherlands,Historical,EV charging points,EV,Publicly available fast,2021,charging points,2600.0
+Netherlands,Historical,EV charging points,EV,Publicly available fast,2022,charging points,4300.0
+Netherlands,Historical,EV charging points,EV,Publicly available fast,2023,charging points,5800.0

@@ -1,0 +1,11 @@
+region,category,parameter,mode,powertrain,year,unit,value
+Luxembourg,Historical,EV sales,Cars,PHEV,2019,Vehicles,910.0
+Luxembourg,Historical,EV sales,Cars,PHEV,2020,Vehicles,2700.0
+Luxembourg,Historical,EV sales,Cars,PHEV,2021,Vehicles,4400.0
+Luxembourg,Historical,EV sales,Cars,PHEV,2022,Vehicles,3800.0
+Luxembourg,Historical,EV sales,Cars,PHEV,2023,Vehicles,4800.0
+Luxembourg,Historical,EV sales,Cars,BEV,2019,Vehicles,990.0
+Luxembourg,Historical,EV sales,Cars,BEV,2020,Vehicles,2500.0
+Luxembourg,Historical,EV sales,Cars,BEV,2021,Vehicles,4600.0
+Luxembourg,Historical,EV sales,Cars,BEV,2022,Vehicles,6400.0
+Luxembourg,Historical,EV sales,Cars,BEV,2023,Vehicles,11000.0

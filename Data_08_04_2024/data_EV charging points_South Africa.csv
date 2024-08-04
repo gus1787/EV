@@ -1,0 +1,15 @@
+region,category,parameter,mode,powertrain,year,unit,value
+South Africa,Historical,EV charging points,EV,Publicly available slow,2017,charging points,87.0
+South Africa,Historical,EV charging points,EV,Publicly available slow,2018,charging points,160.0
+South Africa,Historical,EV charging points,EV,Publicly available slow,2019,charging points,110.0
+South Africa,Historical,EV charging points,EV,Publicly available slow,2020,charging points,140.0
+South Africa,Historical,EV charging points,EV,Publicly available slow,2021,charging points,140.0
+South Africa,Historical,EV charging points,EV,Publicly available slow,2022,charging points,140.0
+South Africa,Historical,EV charging points,EV,Publicly available slow,2023,charging points,140.0
+South Africa,Historical,EV charging points,EV,Publicly available fast,2017,charging points,37.0
+South Africa,Historical,EV charging points,EV,Publicly available fast,2018,charging points,81.0
+South Africa,Historical,EV charging points,EV,Publicly available fast,2019,charging points,130.0
+South Africa,Historical,EV charging points,EV,Publicly available fast,2020,charging points,160.0
+South Africa,Historical,EV charging points,EV,Publicly available fast,2021,charging points,160.0
+South Africa,Historical,EV charging points,EV,Publicly available fast,2022,charging points,160.0
+South Africa,Historical,EV charging points,EV,Publicly available fast,2023,charging points,160.0

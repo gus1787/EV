@@ -1,0 +1,19 @@
+region,category,parameter,mode,powertrain,year,unit,value
+Ireland,Historical,EV sales,Cars,PHEV,2015,Vehicles,120.0
+Ireland,Historical,EV sales,Cars,PHEV,2016,Vehicles,300.0
+Ireland,Historical,EV sales,Cars,PHEV,2017,Vehicles,330.0
+Ireland,Historical,EV sales,Cars,PHEV,2018,Vehicles,740.0
+Ireland,Historical,EV sales,Cars,PHEV,2019,Vehicles,1300.0
+Ireland,Historical,EV sales,Cars,PHEV,2020,Vehicles,2500.0
+Ireland,Historical,EV sales,Cars,PHEV,2021,Vehicles,7900.0
+Ireland,Historical,EV sales,Cars,PHEV,2022,Vehicles,7700.0
+Ireland,Historical,EV sales,Cars,PHEV,2023,Vehicles,10000.0
+Ireland,Historical,EV sales,Cars,BEV,2015,Vehicles,470.0
+Ireland,Historical,EV sales,Cars,BEV,2016,Vehicles,390.0
+Ireland,Historical,EV sales,Cars,BEV,2017,Vehicles,620.0
+Ireland,Historical,EV sales,Cars,BEV,2018,Vehicles,1200.0
+Ireland,Historical,EV sales,Cars,BEV,2019,Vehicles,3400.0
+Ireland,Historical,EV sales,Cars,BEV,2020,Vehicles,4000.0
+Ireland,Historical,EV sales,Cars,BEV,2021,Vehicles,8600.0
+Ireland,Historical,EV sales,Cars,BEV,2022,Vehicles,16000.0
+Ireland,Historical,EV sales,Cars,BEV,2023,Vehicles,23000.0

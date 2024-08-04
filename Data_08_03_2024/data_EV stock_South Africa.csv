@@ -1,0 +1,25 @@
+region,category,parameter,mode,powertrain,year,unit,value
+South Africa,Historical,EV stock,Cars,PHEV,2014,Vehicles,1.0
+South Africa,Historical,EV stock,Cars,PHEV,2015,Vehicles,120.0
+South Africa,Historical,EV stock,Cars,PHEV,2016,Vehicles,400.0
+South Africa,Historical,EV stock,Cars,PHEV,2017,Vehicles,530.0
+South Africa,Historical,EV stock,Cars,PHEV,2018,Vehicles,610.0
+South Africa,Historical,EV stock,Cars,PHEV,2019,Vehicles,680.0
+South Africa,Historical,EV stock,Cars,PHEV,2020,Vehicles,830.0
+South Africa,Historical,EV stock,Cars,PHEV,2021,Vehicles,880.0
+South Africa,Historical,EV stock,Cars,PHEV,2022,Vehicles,820.0
+South Africa,Historical,EV stock,Cars,PHEV,2023,Vehicles,1300.0
+South Africa,Historical,EV stock,Cars,FCEV,2021,Vehicles,1.0
+South Africa,Historical,EV stock,Cars,FCEV,2022,Vehicles,3.0
+South Africa,Historical,EV stock,Cars,FCEV,2023,Vehicles,3.0
+South Africa,Historical,EV stock,Cars,BEV,2013,Vehicles,34.0
+South Africa,Historical,EV stock,Cars,BEV,2014,Vehicles,48.0
+South Africa,Historical,EV stock,Cars,BEV,2015,Vehicles,160.0
+South Africa,Historical,EV stock,Cars,BEV,2016,Vehicles,260.0
+South Africa,Historical,EV stock,Cars,BEV,2017,Vehicles,330.0
+South Africa,Historical,EV stock,Cars,BEV,2018,Vehicles,400.0
+South Africa,Historical,EV stock,Cars,BEV,2019,Vehicles,560.0
+South Africa,Historical,EV stock,Cars,BEV,2020,Vehicles,640.0
+South Africa,Historical,EV stock,Cars,BEV,2021,Vehicles,860.0
+South Africa,Historical,EV stock,Cars,BEV,2022,Vehicles,1400.0
+South Africa,Historical,EV stock,Cars,BEV,2023,Vehicles,2200.0

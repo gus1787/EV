@@ -1,0 +1,10 @@
+region,category,parameter,mode,powertrain,year,unit,value
+Cyprus,Historical,EV sales,Cars,PHEV,2020,Vehicles,83.0
+Cyprus,Historical,EV sales,Cars,PHEV,2021,Vehicles,98.0
+Cyprus,Historical,EV sales,Cars,PHEV,2022,Vehicles,230.0
+Cyprus,Historical,EV sales,Cars,PHEV,2023,Vehicles,510.0
+Cyprus,Historical,EV sales,Cars,BEV,2019,Vehicles,23.0
+Cyprus,Historical,EV sales,Cars,BEV,2020,Vehicles,42.0
+Cyprus,Historical,EV sales,Cars,BEV,2021,Vehicles,84.0
+Cyprus,Historical,EV sales,Cars,BEV,2022,Vehicles,400.0
+Cyprus,Historical,EV sales,Cars,BEV,2023,Vehicles,790.0
